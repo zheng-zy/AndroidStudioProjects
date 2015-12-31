@@ -9,4 +9,5 @@
     <style name="CustomBackground" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
         <item name="background">@drawable/actionbar_background</item>
     </style>
+
 </resources>
